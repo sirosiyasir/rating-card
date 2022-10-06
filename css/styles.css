@@ -1,0 +1,111 @@
+body {
+  background-color: hsl(216, 12%, 8%);
+}
+
+h3 {
+  color: #fff;
+}
+
+p {
+  color: hsl(217, 12%, 63%);
+}
+
+.butn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 35px;
+}
+
+.butnSubmit {
+  background-color: hsl(25, 97%, 53%);
+  margin-top: 15px;
+  border-top-style: none;
+  border-style: none;
+}
+
+.butnSubmit:hover {
+  background-color: #fff;
+  color: hsl(25, 97%, 53%);
+}
+
+.butn1,
+.butn2,
+.butn3,
+.butn4,
+.butn5 {
+  border-radius: 100%;
+  background-color: hsl(213, 19%, 18%);
+  margin: auto 15px;
+  color: hsl(217, 12%, 63%);
+}
+
+.butn1:hover {
+  background-color: hsl(25, 97%, 53%);
+}
+
+.butn2:hover {
+  background-color: hsl(25, 97%, 53%);
+}
+
+.butn3:hover {
+  background-color: hsl(25, 97%, 53%);
+}
+
+.butn4:hover {
+  background-color: hsl(25, 97%, 53%);
+}
+
+.butn5:hover {
+  background-color: hsl(25, 97%, 53%);
+}
+
+.card {
+  background-color: hsl(213, 19%, 13%);
+  max-width: 1440px;
+  min-width: 375px;
+  width: 27rem;
+  height: 390px;
+  border-radius: 3%;
+}
+
+.container {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.iconImg {
+  margin-bottom: 37px;
+}
+
+.secondText {
+  text-align: center;
+}
+
+.secondPageImg {
+  margin-bottom: 10px;
+}
+
+.secondPageText {
+  margin-top: 25px;
+}
+
+.submit {
+  margin-top: 15px;
+}
+
+.text {
+  padding: 5%;
+  margin-top: 30px;
+}
+
+.thankYou {
+  margin-top: 25px;
+}
+
+.yourSelectText {
+  margin-top: 10px;
+  color: hsl(25, 97%, 53%);
+}
